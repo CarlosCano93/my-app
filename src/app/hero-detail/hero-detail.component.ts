@@ -11,7 +11,6 @@ export class HeroDetailComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-  	//@Input() hero: Hero;
   }
 
 }
